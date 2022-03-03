@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/delviawp/wlb-fe-delvia#readme",
   "dependencies": {
+    "@apollo/client": "^3.5.10",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "express-graphql": "^0.12.0",
